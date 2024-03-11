@@ -1,0 +1,28 @@
+.contact1{
+    background-color: rgb(211, 211, 211);
+    height: 150px;
+    position: absolute;
+    width: 100%;
+}
+.contact1 p{
+    text-align: center;
+    margin-top: 40px;
+    font-size: 45px;
+    font-weight: lighter;
+}
+.para1{
+    width: 1400px;
+    margin-top: 90px;
+    margin-left: 50px;
+
+}
+.contact2 p{
+    font-size: 15px;
+    margin-left: -1280px;
+    margin-top: -1px;
+    color: rgb(134, 215, 247);
+}
+.contact2 h5{
+    margin-left: 60px;
+    margin-top: 40px;
+}
