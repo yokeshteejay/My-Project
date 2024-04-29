@@ -1,17 +1,3 @@
-import React from "react";
-import Nav_bar from "./nav";
-import Footer from "./footer";
-import"./specification.css"
-import specific1 from"../img/roof1.jpg";
-import specific2 from "../img/roof2.jpg";
-import specific3 from "../img/roof3.jpg" ;
-import specific4 from "../img/Screenshot 2024-03-19 163417.png"
-
-function Specific() {
-    return(
-    <>
-    <Nav_bar/>
-    
 
     <div class="jumbotron text-center">
   <h1>Specification</h1> 
@@ -72,9 +58,3 @@ function Specific() {
     </div>
   </div>
 </div>
-
-    <Footer/>
-    </>
-    )
-}
-export  default Specific

@@ -1,7 +1,15 @@
-.container-fluid{
+/* .container-fluid{
     height: 300px;
     margin-top: 50px;
     font-size: 20px;
+} */
+#wholediv{
+    margin-top: -70px;
+    font-size: 20px;
+    /* background-color: black; */
+}
+#wholediv h2{
+   font-size: 30px;
 }
 footer{
     background-color: black;
@@ -12,4 +20,19 @@ footer h1{
 }
 footer h2{
     color: white;
+}
+
+.row p{
+ margin-top: 0px;
+}
+#box input{
+    padding: 30px;
+}
+#map1{
+  height: 500px;
+ 
+}
+#wholemap{
+    margin-top: -100px;
+   
 }

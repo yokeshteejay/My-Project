@@ -1,0 +1,88 @@
+.title{
+    margin-top: 40px;
+    font-size: 25px;
+}
+body{
+  background-color: white !important;
+}
+#name_inp{
+    
+  border-bottom: 3px solid rgb(99, 147, 54);
+  font-size: 20px;
+  background-color: transparent;
+}
+.but{
+    background-color: rgb(53, 53, 53) !important;
+    font-size: 20px;
+    font-weight: 400;
+}
+#button_but button{
+padding: 30px;
+padding-right: 140px;
+
+}
+#font{
+  font-family: "Crimson Pro", serif;
+  font-weight: 400;
+}
+#mySidenav a {
+  position: absolute;
+  left: -80px;
+  transition: 0.3s;
+  padding: 15px;
+  width: 100px;
+  text-decoration: none;
+  font-size: 20px;
+  color: white;
+  border-radius: 0 5px 5px 0;
+}
+
+#mySidenav a:hover {
+  left: 0;
+}
+
+#about {
+  top: 20px;
+  background-color: #04AA6D;
+}
+
+#blog {
+  top: 80px;
+  background-color: #2196F3;
+}
+
+#projects {
+  top: 140px;
+  background-color: #f44336;
+}
+
+#contact {
+  top: 200px;
+  background-color: #555}
+
+  #round img{
+    border-radius: 30px;
+    height: 50px;
+    margin-left: 20px;
+  }
+
+  #flex{
+    display: flex;
+   justify-content: space-evenly;
+  /* margin-left: 140px; */
+
+}
+#flex img{
+    border-radius: 50px;
+    
+}
+/* ----------button---------- */
+
+
+@media (max-width:426px){
+
+#button_container{
+  margin-left: -25px !important;
+}
+
+}

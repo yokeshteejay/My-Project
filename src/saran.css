@@ -1,0 +1,104 @@
+#logo{
+    margin-left: 50px;
+    margin-top: 20px;
+}
+#logo1{
+    margin-left: 1350px;
+    margin-top: -138px;
+}
+#heading{
+    margin-left: 350px;
+    margin-top: -125px;
+}
+#heading h1{
+   font-size: 30px;
+   margin-left: 110px;
+   color:rgb(0, 0, 113);
+}
+#heading p{
+    font-size: 20px;
+    margin-left: 345px;
+    margin-top: -5px;
+    color:rgb(0, 0, 113);
+ }
+ #heading1{
+    margin-left: 320px;
+    margin-top: -10px;
+ }
+ #heading1 p{
+   font-size: 20px;
+   margin-left: 110px;
+   font-weight: 500;
+ }
+ #heading2{
+    margin-left: 600px;
+ }
+ #heading2 h3{
+    font-size: 20px;
+    margin-top: -7px;
+    font-weight: 400;
+    margin-left: 10px;
+    color: gray;
+ }
+ #table{
+    /* border:2px solid black; */
+    margin-top: -30px;
+    border:2px solid black;
+    width: 1465px;
+    height: 500px;
+    margin-left: 30px;
+ }
+#table1{
+    /* margin-top: 100px; */
+    width: 1000px;
+    margin-left: 100px;
+  
+}
+#result{
+   background-color: rgb(86, 86, 86) ;
+   width: 1465px;
+   margin-top: 25px;
+   margin-left: 30px;
+   color: white;
+}
+#result h4{
+   margin-left: 10px;
+   margin-top: 4px;
+   font-size: 170%;
+}
+#result1{
+   background-color: lavender;
+   padding: 20px;
+   width: 1400px;
+   height: 30px;
+   margin-left: 30px;
+}
+#result1 h4{
+   margin-top:-9px;
+   margin-left: 5px;
+   color: rgb(110, 110, 110);
+   font-size: 140%;
+}
+#result1 button{
+   margin-left: 1000px;
+   margin-top: -18px;
+   padding: 5px;
+   width: 70px;
+   height: 30px;
+   color: white;
+   font-size: 130%;
+}
+#forms1{
+   margin-top: -463px;
+   margin-left: 650px;
+   
+}
+#forms1 input{
+   padding: 5px;
+   width: 160px;
+   border-radius: 3px;
+}
+#secondhalf{
+   margin-left: 100px;
+   margin-top: 20px;
+}

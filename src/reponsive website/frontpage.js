@@ -106,6 +106,7 @@ function Frontpage() {
     <p class="text-center">SK Engineering Services has been setup with a vision to provide the latest Technology and cost-effective solution to the process industries trans India.
 </p>
 
+
     {/* <ul class="list-group">
       <li class="list-group-item">September <span class="label label-danger">Sold Out!</span></li>
       <li class="list-group-item">October <span class="label label-danger">Sold Out!</span></li> 

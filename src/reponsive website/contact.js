@@ -8,10 +8,9 @@ function Contact() {
     <>
   <Nav_bar/>  
 
-<div className="contact">
-<div class="container-fluid bg-grey">
+<div class="container-fluid bg-grey" id="wholediv">
 <h2 class="text-center">CONTACT</h2>
-  <div class="row">
+  <div class="row"  >
     <div class="col-sm-5">
       <p>Contact us and we'll get back to you within 24 hours.</p>
       <p><span class="glyphicon glyphicon-map-marker"></span> Chicago, US</p>
@@ -19,8 +18,8 @@ function Contact() {
       <p><span class="glyphicon glyphicon-envelope"></span> myemail@something.com</p>
     </div>
     <div class="col-sm-7">
-      <div class="row">
-        <div class="col-sm-6 form-group">
+      <div class="row" id="box">
+        <div class="col-sm-6 form-group " >
           <input class="form-control" id="name" name="name" placeholder="Name" type="text" required></input>
         </div>
         <div class="col-sm-6 form-group">
@@ -36,18 +35,18 @@ function Contact() {
     </div>
   </div>
 </div>
-</div>
 
 
-{/* <div className="map">
-<div className="locate">
+
+<div class="container-fluid text-center" id="wholemap" >
+<div class="container">
   <h1>LOCATION</h1>
 </div><br></br><br></br>
-  <div id="my-map-canvas" >
-    <iframe  src="https://www.google.com/maps/embed/v1/place?q=Sk+Engineering,+Nallampalayam,+Coimbatore,+Tamil+Nadu,+India&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8">
+  <div id="my-map-canvas" class="container" >
+    <iframe class="container w-100 " id="map1" src="https://www.google.com/maps/embed/v1/place?q=Sk+Engineering,+Nallampalayam,+Coimbatore,+Tamil+Nadu,+India&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8">
     </iframe>
     </div><a class="googlemaps-made" href="https://www.bootstrapskins.com/themes" id="inject-map-data"></a>
-    </div> */}
+    </div>
 <div>
     <Footer/>
     </div>

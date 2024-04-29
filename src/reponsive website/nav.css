@@ -1,9 +1,33 @@
 #logo{
     margin-top: -10px;
-    margin-left: 30px;
+    margin-left: 10px;
 }
 .navbar-nav > li{
     margin-left: 10px;
-    margin-right: 10px;
-    font-size: 18px;
+    /* margin-right: 10px; */
+    font-size: 12px;
+}
+#search{
+    margin-top: 10px;
+    margin-left: 50px;
+}
+#collapsibleNavbar{
+    margin-left: -20px;
+    
+}
+#dropdown1{
+    margin-top: 10px;
+   
+}
+#but{
+   font-size: 13px;
+}
+#drop{
+    width: 200px;
+}
+#spec1{
+    margin-left: 10px;
+}
+#drop li{
+    font-size: 20px;
 }
