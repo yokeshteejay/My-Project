@@ -1,13 +1,14 @@
 import React from "react";
 
 import "./hair.css";
-import Formpage from "./formpage";
+import FormPage1 from "./formpage1";
+
 
 
 function Main() {
   return (
-    <div className="App">
-     <Formpage/>
+    <div className="App  container">
+     <FormPage1/>
     </div>
   );
 }

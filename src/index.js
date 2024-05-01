@@ -1,7 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import Main from './hair/hair';
+import FormPage1 from './hair/formpage1';
+// import Main from './hair/hair';
 // import App from './frontend';
 // import Hair from './hair/hair';
 // import Haircal from './hair/haircal';
@@ -15,9 +16,9 @@ root.render(
 {/* <Router_response/> */}
 {/* <Haircal/> */}
 {/* <Hair/> */}
-<Main/>
+{/* <Main/> */}
 {/* <App/> */}
-
+<FormPage1/>
 
   </React.StrictMode>
 );
